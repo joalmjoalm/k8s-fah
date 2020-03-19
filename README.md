@@ -16,7 +16,7 @@ If/when they add an option to work only on COVID-19, I will update the deploymen
 
 # Install
 ## ONLY CPU 
-```kubectl apply -f https://raw.githubusercontent.com/richstokes/k8s-fah/master/folding-cpu.yaml```  
+```kubectl apply -f https://raw.githubusercontent.com/joalmjoalm/k8s-fah/master/folding-cpu.yaml```  
 
 ## ONLY GPU (Nvidia)
 ```kubectl apply -f https://raw.githubusercontent.com/richstokes/k8s-fah/master/folding-gpu.yaml```
