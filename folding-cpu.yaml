@@ -39,7 +39,7 @@ spec:
               topologyKey: "kubernetes.io/hostname"
       containers:
         - name: fah-cpu
-          image: "richstokes20/fah-covid:latest"
+          image: "jonasat/myrepo:fahclient751"
           imagePullPolicy: Always
           resources:
             limits:
